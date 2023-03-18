@@ -1,6 +1,7 @@
-### Hi there,I'm Abdessamad Ait hamou 👋
-
-## I'm a passionate self-taught programmer
+<div align="center">
+    <h1 > Hi there,I'm Abdessamad Ait hamou 👋 </h1>
+    <p>I'm a passionate self-taught programmer</p>
+</div>
 <!--
 **AHabdessamad/AHabdessamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
