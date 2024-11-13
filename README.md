@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Backend & DevOps**
+- 🌱 I’m currently learning **Microservice Architecture & DevOps**
 
 - 💬 Ask me about **MERN Stack**
 
