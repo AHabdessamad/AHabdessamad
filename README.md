@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring Boot & Angular**
+- 🌱 I’m currently learning **Backend & DevOps**
 
 - 💬 Ask me about **MERN Stack**
 
