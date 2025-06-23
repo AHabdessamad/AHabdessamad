@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **Microservice Architecture & DevOps**
+- 🌱 I’m currently learning **Microservice Architecture & Azure**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **.Net & MERN Stack**
 
 - 📫 How to reach me **abdessamadaithamou0@gmail.com**
 
